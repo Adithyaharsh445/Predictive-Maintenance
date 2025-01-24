@@ -1,4 +1,4 @@
-Predictive Maintenance Using Machine Learning
+**Predictive Maintenance Using Machine Learning**
 
 🛠️ Overview
 
